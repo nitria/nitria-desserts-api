@@ -14,22 +14,10 @@ app.get("/desserts", (req, res) => {
   res.json(data.desserts);
 });
 
-// app.get(`/desserts/:id`, (req, res) => {
-//   const id = req.params.id;
-//   const dessertId = data.desserts.filter((dessert) => dessert.id == id);
-//   res.json(dessertId);
-// });
-
-app.get(`/desserts/:category`, (req, res) => {
-  const category = req.params.category;
-
-  const dessertCategory = data.desserts.filter((dessert) => {
-    const uniqueCategory = [
-      ...new Set(data.desserts.map((dessert) => dessert.category)),
-    ];
-    uniqueCategory == category;
-  });
-  res.json(dessertCategory);
+app.get(`/desserts/:id`, (req, res) => {
+  const id = req.params.id;
+  const dessertId = data.desserts.filter((dessert) => dessert.id == id);
+  res.json(dessertId);
 });
 
 app.listen(PORT, () => console.log(`Port: ${PORT}`));
