@@ -5,11 +5,14 @@ const data = require("./desserts.json");
 
 const app = express();
 
-app.use(cors());
+app.use((req, res) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "X-Requested-With");
+});
 
 app.get(
   "/",
-  { headers: { "Access-Control-Allow-Origin": "*" } },
+  // { headers: { "Access-Control-Allow-Origin": "*" } },
   (req, res) => {
     res.json("An Api for desserts.");
   }
