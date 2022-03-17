@@ -1,6 +1,5 @@
 const PORT = process.env.PORT || 3000;
 const express = require("express");
-const axios = require("axios");
 const data = require("./desserts.json");
 
 const app = express();
