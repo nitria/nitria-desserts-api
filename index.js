@@ -1,14 +1,19 @@
 const PORT = process.env.PORT || 3000;
 const express = require("express");
 const axios = require("axios");
-const { response } = require("express");
 const data = require("./desserts.json");
 
 const app = express();
 
-app.get("/", (req, res) => {
-  res.json("An Api for desserts.");
-});
+app.use(cors());
+
+app.get(
+  "/",
+  { headers: { "Access-Control-Allow-Origin": "*" } },
+  (req, res) => {
+    res.json("An Api for desserts.");
+  }
+);
 
 app.get("/desserts", (req, res) => {
   res.json(data.desserts);
