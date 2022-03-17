@@ -6,6 +6,7 @@ const data = require("./desserts.json");
 const app = express();
 
 app.use(function (req, res, next) {
+  res.header("Allow", "GET");
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
     "Access-Control-Allow-Headers",
