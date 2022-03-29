@@ -444,6 +444,61 @@
       "category": "Pies",
       "time": "1hr",
       "servings": 4
+    },
+    {
+      "id": 21,
+      "title": "Vanilla Coconut Cupcakes",
+      "ingredients": {
+        "1": "150g unsalted butter, cut into cubes",
+        "2": "115g caster sugar",
+        "3": "2 teaspoons natural vanilla extract",
+        "4": "2 eggs",
+        "5": "185g plain flour",
+        "6": "1 teaspoon baking powder",
+        "7": "45g desiccated coconut",
+        "8": "125ml milk"
+      },
+      "instructions": {
+        "1": "Preheat the oven to 180°C. Line twelve 125ml muffin holes with paper cases.",
+        "2": "Put the butter, sugar and vanillaextract in a bowl and beat with electric beaters for 2-3 minutes, or until thick and creamy. Add the eggs one at a time, and beat in each well combined.",
+        "3": "Sift together the flour and baking powder. Use a metal spoon to stir in the sifted flour and baking powder in two lots. Stir in the desiccated coconut and the milk.",
+        "4": "Put spoonfuls evenly into the paper cases. Bake for 18 - 20 minutes, or until firm and golden brown. Cool on a wire rack.",
+        "5": "To make the vanill glace icing, spread the flaked coconut on a tray and lightly toast for 2 - 3 minutes in the oven. Put the butter in a small bowl and pour over 2 teaspoons of hot water to soften the butter. Add the vanill extract. Put the icing sugar in a bowl, add the butter mixture and mix together until smooth adding a little more water if necessary to make a spreading consistency.",
+        "6": "Use a small spatula to spread the cooled cakes with the icing and dip each into the coconut flakes. Set aside to firm the icing."
+      },
+      "img": "https://images.squarespace-cdn.com/content/v1/5dae5bb79dc3e574a89d41b0/1586347508287-12UDLH6OP1B8VA6CPI0U/Coconut+Cupcakes-9.jpg",
+      "category": "cupcakes",
+      "time": "40min",
+      "servings": 12
+    },
+    {
+      "id": 21,
+      "title": "Orange and almond cake",
+      "ingredients": {
+        "1": "2 large navel oranges",
+        "2": "6 eggs",
+        "3": "1 tablespoon orange blossom water or orange liqueur",
+        "4": "250g caster sugar",
+        "5": "300g ground almonds",
+        "6": "1 teaspoon baking powder",
+        "7": "3 navel oranges, peeled, pith and sinew removed, thinly sliced to garnish",
+        "8": "500ml fresh orange juice strained",
+        "9": "185g caster sugar",
+        "10": "60ml sauternes"
+      },
+      "instructions": {
+        "1": "Grease and flour a 23cm spring-form cake tin, tipping out any excess flour.",
+        "2": "Put the whole oranges into a saucepan full of water. Boil for 2 hours topping up with water as needed. Remove the oranges, quater them and process in a food processor until smooth. Cool thoroughly. Preheat the oven to 180C.",
+        "3": "Place the egg yolks, orange blossom water and caster sugar in a large bowl and beat until smooth, then stir in the orange puree and mix well.",
+        "4": "Whisk the egg whites in a dry bowl until firm peaks form. Add the ground almonds and baking powder to the orange mixture, stir well then fold in the egg whites.",
+        "5": "Pour into the cake tin and bake for 1 hour, or until firm, cover with foil if it begins to over-brown. Cool in the tin, then transfer to a serving plate.",
+        "6": "To make the syrup, put the orange juice, sugar and Sauternes in a saucepan over medium heat and stir until the sugar is dissolved. Reduce the heat and simmer for 20 minutes, or until reduced by half and slightly syrupy, skimmingoff any scum.",
+        "7": "Cut the cake into wedges, garnish with orange slices and drizzle with the syrup. Delicious served with cream."
+      },
+      "img": "https://www.recipewinners.com/wp-content/uploads/2020/02/blog-cover-2-720x405.jpg",
+      "category": "Cake",
+      "time": "3hrs 25min",
+      "servings": 7
     }
   ]
 }
