@@ -410,40 +410,49 @@
       "id": 19,
       "title": "Sweet potatoe pie",
       "ingredients": {
-        "1": "500g sweet potatoes",
-        "2": "320g sheet of shortcrust pastry",
-        "3": "125g butter",
-        "4": "250g caster sugar",
-        "5": "150ml whole milk",
-        "6": "3 eggs",
-        "7": "grating of nutmeg",
-        "8": "½ tsp ground cinnamon",
-        "9": "1 tsp vanilla bean paste"
+        "1": "1 (1 pound) sweet potato, with skin",
+        "2": "½ cup butter, softened",
+        "3": "1 cup white sugar",
+        "4": "½ cup milk",
+        "5": "2 large eggs",
+        "6": "½ teaspoon ground nutmeg",
+        "7": "½ teaspoon ground cinnamon",
+        "8": "1 teaspoon vanilla extract",
+        "9": "1 (9 inch) unbaked pie crust"
       },
-      "instructions": "Fill a large pan with boiling water from the kettle and set over a medium-high heat. Cook the whole, unpeeled sweet potatoes for 30 mins until very tender when pierced with the tip of a sharp knife. Drain well and leave to cool for 10 mins, then peel. Heat the oven to 180C/160C fan/gas 4. Unravel the shortcrust pastry and use it to line a 23cm fluted tart tin. Line with baking parchment and fill with baking beans, then bake for 20 mins. Remove the parchment and beans and bake for another 5 mins. Tip the peeled sweet potatoes into a large bowl with the butter and mash with a potato masher until completely smooth. Tip in the sugar, milk, eggs, spices and vanilla and whisk until everything is combined and smooth. Tip the sweet potato filling into the pastry case, smoothing the top with a spatula. Bake for 50-55 mins until the pastry and the surface of the pie is golden and the middle is set. Leave to cool completely in the tin, then remove to a cake stand or serving plate and cut into slices to serve.",
+      "instructions": {
+        "1": "Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes.",
+        "2": "Preheat the oven to 175°C",
+        "3": "Remove sweet potato from the pot and run under cold water. Remove and discard skin.",
+        "4": "Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined. Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth. Pour filling into unbaked pie crust.",
+        "5": "Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes.",
+        "6": "Remove from the oven and let cool before serving."
+      },
       "img": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Sweet-Potato-Pie_EXPS_GHBZ18_1203_B08_15_3b.jpg",
       "category": "Pies",
-      "time": "1hr 25min",
+      "time": "1hr 55min",
       "servings": 9
     },
     {
       "id": 20,
       "title": "Apple pie",
       "ingredients": {
-        "1": "225g plain flour",
-        "2": "140g butter or margarine",
-        "3": "3 large cooking apples",
-        "4": "2 tbsp honey",
-        "5": "pinch of cinnamon",
-        "6": "pinch of mixed spice",
-        "7": "1 egg beaten",
-        "8": "crème fraîche, vanilla ice cream or natural yogurt, to serve"
+        "1": "6 cups thinly sliced apples",
+        "2": "¾ cup white sugar",
+        "3": "1 tablespoon butter ",
+        "4": "1 teaspoon ground cinnamon",
+        "5": "1 recipe pastry for a 9-inch double-crust pie "
       },
-      "instructions": "Heat oven to 200C/180C fan/gas 6. To make the pastry, sift the flour into a large mixing bowl and add the butter or margarine. Using your fingers, mix together until the mixture resembles breadcrumbs. Add about 3 tbsp cold water – 1 tbsp at a time – to bind the mixture into a ball. Then wrap it in cling film and leave to chill in the fridge while you prepare the apples, or for 30 mins if you have time. While the pastry is chilling, core the apples, then cut into even-sized chunks so they all cook in the same amount of time. Put the apples into the pie dish, drizzle over the honey and add the cinnamon, mixed spice and about 2 tbsp water. Roll out the pastry on a floured work surface until it is large enough to cover the pie dish. Using the rolling pin, carefully lift the pastry and lay it over the top of the apple mixture. Carefully trim off the excess pastry (this can be rerolled and cut into shapes to decorate the pie crust if you like) and press the pastry edges onto the dish to create a seal. Make a small cut in the pastry so that the air can escape during cooking, then brush with beaten egg to glaze. Bake the pie in the oven for 20-30 mins until the pastry is golden and sandy in appearance and the apple filling is bubbling and hot. Serve while still warm with crème fraîche, ice cream or natural yogurt.",
+      "instructions": {
+        "1": "Prepare your pastry for a two crust pie. Wipe, quarter, core, peel, and slice apples; measure to 6 cups.",
+        "2": "Combine sugar and cinnamon. The amount of sugar used depends on how tart your apples are.",
+        "3": "Arrange apples in layers in pastry lined pie plate. Sprinkle each layer with sugar and cinnamon. Dot top layer with small pieces of butter or margarine. Cover with top crust.",
+        "4": "Place on lowest rack in oven preheated to 450 degrees F (230 degrees C). Bake for 10 minutes, then reduce oven temperature to 350 degrees F (175 degrees C). Bake for 30 to 35 minutes longer. Serve warm or cold."
+      },
       "img": "https://www.chewoutloud.com/wp-content/uploads/2012/12/apple-pie-2.jpg",
       "category": "Pies",
       "time": "1hr",
-      "servings": 4
+      "servings": 8
     },
     {
       "id": 21,
@@ -499,6 +508,31 @@
       "category": "Cake",
       "time": "3hrs 25min",
       "servings": 7
+    },
+    {
+      "id": 23,
+      "title": "Chocolate cherry cake",
+      "ingredients": {
+        "1": "200g dark chocolate, chopped",
+        "2": "250g unsalted butter, chopped",
+        "3": "230g firmly packed soft brown sugar",
+        "4": "1 teaspoon natural vanilla extract",
+        "5": "155g self-raising flour",
+        "6": "45g desiccated coconut",
+        "7": "2 eggs",
+        "8": "180g pitted sour cherries, drained"
+      },
+      "instructions": {
+        "1": "Preheat the oven to 160°C. Grease a 23cm round cake tin and line the base with baking paper.",
+        "2": "Put the chocolate, butter, sugar and vanilla in a heatproof bowl and melt over a saucepan of simmering water, stirring occasionally, until the chocolate has melted. Make sure the base of the bowl doesn't touch the water. Sit the bowl in a sink of cold water to cool.",
+        "3": "Combine the flour and coconut in a food processor. Add the chocolate mixture and eggs and process in short bursts until just combined. Add the cherries and process in one longish burst to just chop.",
+        "4": "Pour the mixture into the tin and bake for 1 hour 10 minutes, or until a skewer comes out clean when inserted into the centre of the cake.",
+        "5": "Leave in the tin for 15 miutes before carefully turning out onto a wire rack to cool. If desired dust with icing sugar and decorate with fresh cherries just before serving."
+      },
+      "img": "https://realfoodrealdeals.com/wp-content/uploads/2016/05/chocolate-cherry-cake-featured.jpg",
+      "category": "Cake",
+      "time": "1hr 25min",
+      "servings": 8
     }
   ]
 }
