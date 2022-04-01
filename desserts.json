@@ -17,7 +17,15 @@
         "11": "1/2 cup vegetable oil",
         "12": "2 teaspoons vanilla extract "
       },
-      "instructions": "Preheat oven to 350 degrees Fahrenheit. Butter three 9-inch cake rounds. Dust with flour and tap out the excess. Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined. Add eggs, buttermilk, warm water, oil, and vanilla. Beat on a medium speed until smooth. This should take just a couple of minutes. Divide batter among the three pans. I found that it took just over 3 cups of the batter to divide it evenly. Bake for 30-35 minutes in a 350 degree oven until a toothpick inserted into the center comes out clean. Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely. Frost with your favorite frosting and enjoy!",
+      "instructions": {
+        "1": "Preheat oven to 350 degrees Fahrenheit. Butter three 9-inch cake rounds. Dust with flour and tap out the excess.",
+        "2": "Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.",
+        "3": "Add eggs, buttermilk, warm water, oil, and vanilla. Beat on a medium speed until smooth. This should take just a couple of minutes.",
+        "4": "Divide batter among the three pans. I found that it took just over 3 cups of the batter to divide it evenly.",
+        "5": "Bake for 30-35 minutes in a 350 degree oven until a toothpick inserted into the center comes out clean.",
+        "6": "Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely.",
+        "7": "Frost with your favorite frosting and enjoy!"
+      },
       "img": "https://thestayathomechef.com/wp-content/uploads/2016/06/The-Most-Amazing-Chocolate-Cake-Square-1.jpg",
       "category": "Cake",
       "time": "45min",
@@ -33,14 +41,14 @@
         "4": "2 teaspoons vanilla extract",
         "5": "1 ½ cups all-purpose flour",
         "6": "1 ¾ teaspoons baking powder",
-        "7": "½ cup milk",
-        "8": "4 large eggs",
-        "9": "1 1/2 cups buttermilk",
-        "10": "1 1/2 cups warm water",
-        "11": "1/2 cup vegetable oil",
-        "12": "2 teaspoons vanilla extract "
+        "7": "½ cup milk"
       },
-      "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square cake pan. Cream sugar and butter together in a mixing bowl. Add eggs, one at a time, beating briefly after each addition. Stir in vanilla. Combine flour and baking powder in a separate bowl. Add to the wet ingredients and mix well. Add milk and stir until smooth. Pour batter into the prepared cake pan. Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes.",
+      "instructions": {
+        "1": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square cake pan.",
+        "2": "Cream sugar and butter together in a mixing bowl. Add eggs, one at a time, beating briefly after each addition. Stir in vanilla.",
+        "3": "Combine flour and baking powder in a separate bowl. Add to the wet ingredients and mix well. Add milk and stir until smooth. Pour batter into the prepared cake pan.",
+        "4": "Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes."
+      },
       "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F03%2F09%2F17481-simpl-white-cake-mfs-017.jpg",
       "category": "Cake",
       "time": "40min",
@@ -65,7 +73,13 @@
         "13": "1 tsp vanilla bean paste or extract",
         "14": "300g full-fat soft cheese"
       },
-      "instructions": "<p>Heat the oven to 180C/160C fan/gas 4 and line the base of two 20cm sandwich tins with baking parchment. Beat the butter and sugar together for 3 mins using an electric whisk until smooth and fluffy. Add the eggs, one at a time, beating well between each addition and scraping down the sides of the bowl. Fold in the flour and baking powder until well incorporated, then fold in the yogurt, vanilla and lemon zest. Divide between the tins and bake for 30-35 mins until golden and a skewer inserted into the middles comes out clean. Meanwhile, make the drizzle.</p> <p>Tip the sugar, lemon juice and 100ml water into a small pan set over a medium heat and stir until dissolved. Add the lemon zest, bring to the boil and simmer for 2-3 mins until the zest has softened and the liquid is syrupy. Remove the zest to a sheet of baking parchment using a slotted spoon, and remove the syrup from the heat. Leave the sponges to cool for 10 mins in the tins, then pour over the warm drizzle. Leave to cool completely.</p> <p>For the icing, beat the butter and icing sugar together using an electric whisk for 4-5 mins until smooth, scraping down the sides of the bowl as you go. Add the vanilla and soft cheese and beat for 4 mins more until thick and creamy. Don’t worry if it doesn’t look thick at first – it will loosen, then thicken again as you beat it. Remove the cooled sponges from the tins. Spoon the icing into a piping bag fitted with a star nozzle. Put one sponge on a cake stand or serving plate, and pipe just under half the icing around the edge using a circular motion for a wavy effect. Pipe a little more icing over the empty middle (this doesn’t need to be neat) and smooth with the back of a spoon. Chill for 45 mins-1 hr until set. Top with the second sponge, then pipe eight blobs of icing around the edge at regular intervals, leaving a gap between each. Spoon the candied lemon zest into each gap, then serve.</p>",
+      "instructions": {
+        "1": "Heat the oven to 180C/160C fan/gas 4 and line the base of two 20cm sandwich tins with baking parchment. Beat the butter and sugar together for 3 mins using an electric whisk until smooth and fluffy. Add the eggs, one at a time, beating well between each addition and scraping down the sides of the bowl. Fold in the flour and baking powder until well incorporated, then fold in the yogurt, vanilla and lemon zest. Divide between the tins and bake for 30-35 mins until golden and a skewer inserted into the middles comes out clean.",
+        "2": "Meanwhile, make the drizzle. Tip the sugar, lemon juice and 100ml water into a small pan set over a medium heat and stir until dissolved. Add the lemon zest, bring to the boil and simmer for 2-3 mins until the zest has softened and the liquid is syrupy. Remove the zest to a sheet of baking parchment using a slotted spoon, and remove the syrup from the heat.",
+        "3": "Leave the sponges to cool for 10 mins in the tins, then pour over the warm drizzle. Leave to cool completely.",
+        "4": "For the icing, beat the butter and icing sugar together using an electric whisk for 4-5 mins until smooth, scraping down the sides of the bowl as you go. Add the vanilla and soft cheese and beat for 4 mins more until thick and creamy. Don’t worry if it doesn’t look thick at first it will loosen, then thicken again as you beat it.",
+        "5": "Remove the cooled sponges from the tins. Spoon the icing into a piping bag fitted with a star nozzle. Put one sponge on a cake stand or serving plate, and pipe just under half the icing around the edge using a circular motion for a wavy effect. Pipe a little more icing over the empty middle (this doesn’t need to be neat) and smooth with the back of a spoon. Chill for 45 mins-1 hr until set. Top with the second sponge, then pipe eight blobs of icing around the edge at regular intervals, leaving a gap between each. Spoon the candied lemon zest into each gap, then serve."
+      },
       "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Lemon-layer-cake-d2a2df0.jpg?quality=90&resize=556,505",
       "category": "Cake",
       "time": "2hrs 25min",
@@ -92,7 +106,16 @@
         "15": "1 teaspoon vanilla extract",
         "16": "⅛ teaspoon kosher salt"
       },
-      "instructions": "Preheat oven to 350°F. Prepare two 8-inch round cake pans with butter and flour or use non-stick baking spray. Grate a large zucchini (or two small zucchini) and place in a clean dish towel. Life the edges of the towel up and squeeze some of the extra moisture out, but you do not want the zucchini to be dry. You will want 2 total cups of shredded zucchini after it has been drained. Set aside. In a large bowl and using a hand mixer, beat together the eggs, oil, vanilla, and sugar. Fold in the zucchini. Slowly stir in the flour, salt, baking powder, and baking soda. Gently fold in the blueberries. Divide batter evenly between prepared cake pans. Bake 35-40 minutes in the preheated oven, or until a knife inserted in the center of a cake comes out clean. Cool 20 minutes in pans, then turn out onto wire racks to cool completely. Combine butter, sugar and salt and beat till well combined. Add lemon juice and vanilla and continue to beat for another 3 to 5 minute or until creamy. Fold in zest (If you are piping this buttercream, I recommend leaving out the zest).",
+      "instructions": {
+        "1": "Preheat oven to 350°F. Prepare two 8-inch round cake pans with butter and flour or use non-stick baking spray.",
+        "2": "Grate a large zucchini (or two small zucchini) and place in a clean dish towel. Life the edges of the towel up and squeeze some of the extra moisture out, but you do not want the zucchini to be dry. You will want 2 total cups of shredded zucchini after it has been drained. Set aside.",
+        "3": "In a large bowl and using a hand mixer, beat together the eggs, oil, vanilla, and sugar. Fold in the zucchini.",
+        "4": "Slowly stir in the flour, salt, baking powder, and baking soda. Gently fold in the blueberries. Divide batter evenly between prepared cake pans.",
+        "5": "Bake 35-40 minutes in the preheated oven, or until a knife inserted in the center of a cake comes out clean. Cool 20 minutes in pans, then turn out onto wire racks to cool completely.",
+        "6": "Combine butter, sugar and salt and beat till well combined.",
+        "7": "Add lemon juice and vanilla and continue to beat for another 3 to 5 minute or until creamy.",
+        "8": "Fold in zest (If you are piping this buttercream, I recommend leaving out the zest)."
+      },
       "img": "https://iambaker.net/wp-content/uploads/2014/08/zucchini-cake.jpg",
       "category": "Cake",
       "time": "55min",
@@ -104,26 +127,29 @@
       "ingredients": {
         "1": "110g softened butter",
         "2": "110g golden caster sugar",
-        "3": "2 large eggs",
-        "4": "½ tsp vanilla extract",
+        "3": "2 eggs",
+        "4": "1 tsp vanilla extract",
         "5": "110g self-raising flour",
-        "6": "150g softened butter",
-        "7": "300g icing sugar",
-        "8": "1 tsp vanilla extract",
-        "9": "3 tbsp milk",
-        "10": "food colouring paste of your choice (optional)"
+        "6": "1-2 tbsp milk , plus a little extra for the icing",
+        "7": "125g butter , softened",
+        "8": "185g icing sugar"
       },
-      "instructions": "Heat oven to 180C/160C fan/gas 4 and fill a 12 cupcake tray with cases. Using an electric whisk beat 110g softened butter and 110g golden caster sugar together until pale and fluffy then whisk in 2 large eggs, one at a time, scraping down the sides of the bowl after each addition. Add ½ tsp vanilla extract, 110g self-raising flour and a pinch of salt, whisk until just combined then spoon the mixture into the cupcake cases. Bake for 15 mins until golden brown and a skewer inserted into the middle of each cake comes out clean. Leave to cool completely on a wire rack. To make the buttercream, whisk 150g softened butter until super soft then add 300g icing sugar, 1 tsp vanilla extract and a pinch of salt. Whisk together until smooth (start off slowly to avoid an icing sugar cloud) then beat in 3 tbsp milk. If wanting to colour, stir in the food colouring now. Spoon or pipe onto the cooled cupcakes.",
+      "instructions": {
+        "1": "Heat oven to 180C/160C fan/gas 4. Line 12 holes in a shallow muffin tin with cupcake cases (not muffin cases). Cream the butter and sugar together until the mixture is light and fluffy. Beat the eggs and vanilla in a jug, then beat into the butter mixture a little at a time.",
+        "2": "Fold the flour into the mixture along with a little milk – the mixture should fall easily off a spoon. Divide the mixture between the cases, filling each one no more than half full.",
+        "3": "Cook the cakes for 12-15 mins they should be firm to the touch and slightly golden brown. Cool in the tin for 5 mins, then lift them out gently and leave to cool completely.",
+        "4": "To make the icing, beat the butter until it is very soft. Beat in the icing sugar a little at a time, then beat in a splash of the milk as you need to give you a soft icing that can be piped easily. Scrape the icing into an icing bag fitted with a star nozzle. Ice the cakes in swirls, starting in the centre and working outwards."
+      },
       "img": "https://realfood.tesco.com/media/images/RFO-1400x919-VanillaCupcakes-0c7dfdf5-87ce-44f4-8180-cfe8c8140260-0-1400x919.jpg",
       "category": "Cupcakes",
-      "time": "35min",
+      "time": "1hr",
       "servings": 12
     },
     {
       "id": 6,
       "title": "Chocolate Cupcakes",
       "ingredients": {
-        "1": "3/4 cup (94g) all-purpose flour (spoon & leveled)",
+        "1": "3/4 cup (94g) all-purpose flour",
         "2": "1/2 cup (41g) unsweetened natural cocoa powder",
         "3": "3/4 teaspoon baking powder",
         "4": "1/2 teaspoon baking soda",
@@ -133,9 +159,15 @@
         "8": "1/2 cup (100g) packed light brown sugar",
         "9": "1/3 cup (80ml) vegetable or canola oil (or melted coconut oil)",
         "10": "2 teaspoons pure vanilla extract",
-        "11": "1/2 cup (120ml) buttermilk, at room temperature*"
+        "11": "1/2 cup (120ml) buttermilk, at room temperature"
       },
-      "instructions": "Preheat the oven to 350°F (177°C). Line a 12-cup muffin pan with cupcake liners. Line a second pan with 2 liners – this recipe makes about 14 cupcakes. Set aside. Cupcakes: Whisk the flour, cocoa powder, baking powder, baking soda, and salt together in a large bowl until thoroughly combined. Set aside. In a medium bowl, whisk the eggs, granulated sugar, brown sugar, oil, and vanilla together until combined. Pour half of the wet ingredients into the dry ingredients. Then half of the buttermilk. Gently whisk for a few seconds. Repeat with the remaining wet ingredients and buttermilk. Stir until combined do not overmix. The batter will be thin. Pour or spoon the batter into the liners. Fill only halfway (this is imperative! only halfway!) to avoid spilling over the sides or sinking. Bake for 18-21 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before frosting. I usually let them cool in the pan. Frost cooled cupcakes however you’d like. I used chocolate buttercream and Wilton 1M piping tip for these pictured cupcakes. Top with sprinkles, if desired.",
+      "instructions": {
+        "1": "Preheat the oven to 350°F (177°C). Line a 12-cup muffin pan with cupcake liners. Line a second pan with 2 liners – this recipe makes about 14 cupcakes. Set aside.",
+        "2": "Cupcakes: Whisk the flour, cocoa powder, baking powder, baking soda, and salt together in a large bowl until thoroughly combined. Set aside. In a medium bowl, whisk the eggs, granulated sugar, brown sugar, oil, and vanilla together until combined. Pour half of the wet ingredients into the dry ingredients. Then half of the buttermilk. Gently whisk for a few seconds. Repeat with the remaining wet ingredients and buttermilk. Stir until combined do not overmix. The batter will be thin.",
+        "3": "Pour or spoon the batter into the liners. Fill only halfway (this is imperative! only halfway!) to avoid spilling over the sides or sinking.",
+        "4": "Bake for 18-21 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before frosting.",
+        "5": "Frost cooled cupcakes however you like. Top with sprinkles, if desired. Store leftovers in the refrigerator for up to 5 days."
+      },
       "img": "https://dinnerthendessert.com/wp-content/uploads/2021/02/Chocolate-Cupcakes-1x1-1.jpg",
       "category": "Cupcakes",
       "time": "3hrs 25min",
@@ -145,39 +177,58 @@
       "id": 7,
       "title": "Strawberry Cupcakes",
       "ingredients": {
-        "1": "1 ¼ ounces freeze-dried strawberries",
-        "2": "¾ cup all-purpose flour",
-        "3": "¾ cup cake flour",
-        "4": "1 ½ teaspoons baking powder",
-        "5": "¼ teaspoon baking soda",
-        "6": "½ teaspoon salt",
-        "7": "½ cup unsalted butter, room temperature",
-        "8": "1 ⅓ cups white sugar",
-        "9": "3 eggs, room temperature",
-        "10": "1 teaspoon vanilla extract",
-        "11": "⅔ cup whole milk, room temperature"
+        "1": "175g self-raising flour",
+        "2": "115g caster sugar",
+        "3": "2 eggs",
+        "4": "100g Greek yogurt",
+        "5": "115g butter, melted and cooled slightly",
+        "6": "100g strawberries, hulled and finely chopped",
+        "7": "300g icing sugar, sifted",
+        "8": "150g butter, softened",
+        "9": "2tbsp milk",
+        "10": "1tsp vanilla extract",
+        "11": "pink food colouring",
+        "12": "6 strawberries, halved, or 12 small whole strawberries"
       },
-      "instructions": "Preheat oven to 350 degrees F (175 degrees C). Line muffin tins with 20 cupcake liners (for mini cupcakes, line 72 mini muffin tins). Grind strawberries into a fine powder using a coffee grinder or food processor. Whisk strawberry powder, all-purpose flour, cake flour, baking powder, baking soda, and salt together in a bowl. Beat butter and sugar in a bowl with an electric mixer until light and fluffy. Mixture should be noticeably lighter in color. Add room-temperature eggs one at a time, allowing each egg to blend into butter mixture before adding the next. Beat in vanilla extract. Stir flour mixture, alternately with the milk, into butter mixture until just incorporated. Fill lined tins with cupcake batter. Bake in preheated oven until cupcakes spring back when gently touched with a fingertip or a toothpick inserted in the center comes out clean, 16 to 18 minutes for regular cupcakes, 8 to 10 minutes for mini cupcakes.",
+      "instructions": {
+        "1": "Heat the oven to 180C/160C fan/gas 4 and line a 12-hole muffin tin with cupcake cases. Mix the flour and sugar together in a large bowl. In a large jug, whisk together the eggs, yogurt and melted butter. Gradually mix the wet ingredients into the dry until you have a smooth batter, then fold in the strawberries.",
+        "2": "Fill the prepared cases so they are about three-fourths full. Bake for 25-30 mins, or until golden and a skewer inserted into the middles comes out clean. Leave to cool.",
+        "3": "Meanwhile, make the icing. Beat the sugar and butter together until smooth and pale, then add the milk, vanilla and a little pink food colouring and beat until the icing is an even pale pink shade. Spoon the icing into a piping bag fitted with a star nozzle, then pipe in swirls onto the cooled cupcakes. Decorate each with a strawberry half or small strawberry, then serve."
+      },
       "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1032730.jpg",
       "category": "Cupcakes",
-      "time": "47min",
-      "servings": 20
+      "time": "50min",
+      "servings": 12
     },
     {
       "id": 8,
       "title": "Oreo Cupcakes",
       "ingredients": {
-        "1": "2 (250 g) packages PHILADELPHIA Brick Cream Cheese, softened",
-        "2": "½ cup sugar",
-        "3": "2 eggs",
-        "4": "12 OREO Cookies",
-        "5": "3 (1 ounce) squares BAKER'S Semi-Sweet Baking Chocolate",
-        "6": "1 cup thawed COOL WHIP Whipped Topping"
+        "1": "400g Plain Flour",
+        "2": "80g Cocoa Powder",
+        "3": "560g Caster Sugar",
+        "4": "6 tsp Baking Powder",
+        "5": "Pinch of Salt",
+        "6": "160g Unsalted Butter",
+        "7": "480ml Whole Milk",
+        "8": "4 Egg",
+        "9": "1 tsp Vanilla Extract",
+        "10": "20 Oreo Biscuits",
+        "11": "14 Muffin Cases",
+        "12": "100g Unsalted Butter",
+        "13": "160g Cream Cheese",
+        "14": "350g Icing Sugar"
       },
-      "instructions": "Heat oven to 350 degrees F. Beat cream cheese and sugar in large bowl with mixer until well blended. Add eggs, 1 at a time, beating on low speed after each just until blended. Place 1 cookie in bottom of each of 12 paper-lined muffin cups. Fill with batter. Bake 20 minutes or until centres are almost set. Cool. Refrigerate 3 hours. Melt chocolate as directed on package; drizzle over cheesecakes. Top with COOL WHIP.",
+      "instructions": {
+        "1": "Preheat the oven to 170C/160 fan. Line a muffin tray with paper muffin cases. twist 12 Oreos to separate them, and place half in each case, with the cream facing upwards.Put the flour, sugar, cocoa powder, baking powder, salt and butter in a large bowl and mix until you get a sandy consistency and everything is combined.",
+        "2": "Whisk the milk, eggs, and vanilla extract together in a separate jug, then slowly add half into the flour mixture, and beat well to get rid of any lumps. Gradually add the rest of the milk mixture whilst mixing until smooth.",
+        "3": "Add the mixture to the paper cases, making sure they are equally full (about two-thirds). Bake the cakes in the oven for 20-25 minutes.",
+        "4": "Whilst the cakes are cooking, smash up 6 Oreos in a bag and set aside. Whisk the butter, cream cheese and icing sugar until light and fluffy. Then, gently fold in the Oreo Crumbs.",
+        "5": "When the cakes have cooled, pipe the icing onto the cakes and use any left over Oreos to decorate."
+      },
       "img": "https://images.media-allrecipes.com/userphotos/7980538.jpg",
       "category": "Cupcakes",
-      "time": "4hrs 30min",
+      "time": "35min",
       "servings": 12
     },
     {
@@ -195,7 +246,16 @@
         "9": "4 oz milk or semi-sweet chocolate chunks (110 g)",
         "10": "4 oz dark chocolate chunk (110 g), or your preference"
       },
-      "instructions": "<p>In a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps. Whisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture. Sift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies). Fold in the chocolate chunks, then chill the dough for at least 30 minutes.</p> <p>For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be. Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper. Scoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm) of space from the edges of the pan so that the cookies can spread evenly. Bake for 12-15 minutes, or until the edges have started to barely brown. Cool completely before serving.</p>",
+      "instructions": {
+        "1": "In a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps.",
+        "2": "Whisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture.",
+        "3": "Sift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies).",
+        "4": "Fold in the chocolate chunks, then chill the dough for at least 30 minutes. For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be.",
+        "5": "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+        "6": "Scoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm) of space from the edges of the pan so that the cookies can spread evenly.",
+        "7": "Bake for 12-15 minutes, or until the edges have started to barely brown.",
+        "8": "Cool completely before serving."
+      },
       "img": "https://joyfoodsunshine.com/wp-content/uploads/2016/01/best-chocolate-chip-cookies-recipe-ever-no-chilling-1.jpg",
       "category": "Cookies",
       "time": "1hrs 5min",
@@ -203,25 +263,30 @@
     },
     {
       "id": 10,
-      "title": "Gingerbread cookies",
+      "title": "Ginger Cookies",
       "ingredients": {
-        "1": "120g unsalted butter, softened",
-        "2": "1½ tbsp black treacle",
-        "3": "170g soft light brown sugar",
-        "4": "½ tsp fine sea salt",
-        "5": "1 medium egg",
-        "6": "200g plain flour",
-        "7": "¼ tsp bicarbonate of soda",
-        "8": "¼ tsp ground cloves",
-        "9": "1½ tsp ground ginger",
-        "10": "½ tsp ground cinnamon",
-        "11": "60g golden caster sugar"
+        "1": "2 ¼ cups all-purpose flour",
+        "2": "2 teaspoons ground ginger",
+        "3": "1 teaspoon baking soda",
+        "4": "¾ teaspoon ground cinnamon",
+        "5": "½ teaspoon ground cloves",
+        "6": "¼ teaspoon salt",
+        "7": "¾ cup margarine, softened",
+        "8": "1 cup white sugar",
+        "9": "1 egg",
+        "10": "1 tablespoon water",
+        "11": "¼ cup molasses",
+        "12": "2 tablespoons white sugar"
       },
-      "instructions": "Beat together the butter, treacle, brown sugar and salt in a large mixing bowl. Add the egg, then beat through all of the remaining dry ingredients apart from the caster sugar. Chill the mixture in the fridge for 1 hr. Heat the oven to 200C/180C fan/gas 4. Line two baking sheets with baking parchment. Roll the mixture into 20 even-sized balls (weighing for accuracy, if you like). Tip the caster sugar onto a small plate, then add each ball and roll around to coat. Space each ball out on the baking sheets. Bake for 9-10 mins until golden brown. Leave to cool completely on a wire rack.",
+      "instructions": {
+        "1": "Preheat oven to 350 degrees F (175 degrees C). Sift together the flour, ginger, baking soda, cinnamon, cloves, and salt. Set aside.",
+        "2": "In a large bowl, cream together the margarine and 1 cup sugar until light and fluffy. Beat in the egg, then stir in the water and molasses. Gradually stir the sifted ingredients into the molasses mixture. Shape dough into walnut sized balls, and roll them in the remaining 2 tablespoons of sugar. Place the cookies 2 inches apart onto an ungreased cookie sheet, and flatten slightly.",
+        "3": "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container."
+      },
       "img": "https://familycookierecipes.com/wp-content/uploads/2018/12/Soft-Gingerbread-Cookies-13-500x485.jpg",
       "category": "Cookies",
-      "time": "1hr",
-      "servings": 20
+      "time": "50min",
+      "servings": 24
     },
     {
       "id": 11,
@@ -237,7 +302,11 @@
         "8": "40g unblanched hazelnuts , cut into chunky slices",
         "9": "1 egg"
       },
-      "instructions": "Heat oven to 180C/160C fan/gas 4 and lightly grease a non-stick baking tray (or line a normal baking tray with baking parchment). Tip the butter and syrup into a small non-stick pan and melt together, then add the apple and cook, stirring, over a medium heat until it softens, about 6-7 mins. Stir in the cinnamon and raisins. Mix the oats, spelt flour, and hazelnuts in a bowl, pour in the apple mixture, then add the egg and beat everything together really well. Spoon onto the baking tray, well spaced apart to make 9 mounds, then gently press into discs. Bake for 18-20 mins until golden, then cool on a wire rack. Will keep for 3 days in an airtight container or 6 weeks in the freezer.",
+      "instructions": {
+        "1": "Heat oven to 180C/160C fan/gas 4 and lightly grease a non-stick baking tray (or line a normal baking tray with baking parchment). Tip the butter and syrup into a small non-stick pan and melt together, then add the apple and cook, stirring, over a medium heat until it softens, about 6-7 mins. Stir in the cinnamon and raisins.",
+        "2": "Mix the oats, spelt flour, and hazelnuts in a bowl, pour in the apple mixture, then add the egg and beat everything together really well.",
+        "3": "Spoon onto the baking tray, well spaced apart to make 9 mounds, then gently press into discs. Bake for 18-20 mins until golden, then cool on a wire rack."
+      },
       "img": "http://www.delscookingtwist.com/wp-content/uploads/2019/10/Hazelnut-Chocolate-Chip-Oatmeal-Cookies_8.jpg",
       "category": "Cookies",
       "time": "45min",
@@ -247,21 +316,26 @@
       "id": 12,
       "title": "Vegan chocolate chip cookies",
       "ingredients": {
-        "1": "125g cold coconut oil",
-        "2": "100g golden caster sugar",
-        "3": "150g light muscavdo sugar",
-        "4": "125ml coconut milk",
-        "5": "1 tsp vanilla extract",
-        "6": "275g plain flour",
-        "7": "1 tsp baking powder",
-        "8": "¼ tsp bicarb",
-        "9": "200g vegan chocolate chips or vegan chocolate, chopped into small chunks"
+        "1": "1/2 cup coconut oil, solid but scoop-able",
+        "2": "1 and 1/4 cups light brown sugar, packed",
+        "3": "2 teaspoons vanilla extract",
+        "4": "1/4 cup coconut milk",
+        "5": "1/4 cup unsweetened applesauce",
+        "6": "2 and 1/3 cups all-purpose flour",
+        "7": "1 teaspoon baking soda",
+        "8": "1/2 teaspoon salt",
+        "9": "2 cups chocolate chips (use vegan chocolate chips if vegan), divided"
       },
-      "instructions": "Tip the coconut oil and sugars into a bowl and whisk until completely combined, then whisk in the coconut milk and vanilla. Tip the flour, baking powder, bicarb and a good pinch of flaky sea salt into the mix to make a thick batter, then fold through the chocolate chips. Chill the batter for at least 1hr. Can be made 2 days ahead. Heat the oven to 180C/160C fan/gas 4. Line a couple of baking sheets with baking parchment, then scoop or roll plum-sized balls of the dough and place them on the baking sheets about 2cm apart. Flatten ever so slightly and sprinkle with a bit more flaky salt if you want. Cook on the middle shelf for 12-15 mins, turning the tray once, until the cookies have spread and are golden but still soft in the middle. Leave to cool slightly, then lift the cookies onto a cooling rack while you bake another batch. Will keep in a biscuit jar for up to 3 days.",
+      "instructions": {
+        "1": "Preheat oven to 375 degrees. Line a large baking sheet with parchment paper; set aside.",
+        "2": "In a large bowl whisk together the coconut oil, brown sugar, and vanilla, beating until well combined. Add in the coconut milk and applesauce and whisk until well combined; set aside. In a separate bowl combine the flour, baking soda, and salt; whisk well to combine.",
+        "3": "Add the dry ingredients into the wet mixture and, using a wooden spoon or very sturdy spatula, stir until ingredients are combined. The batter will be very thick! Fold in 1 and 3/4 cups of the chocolate chips.",
+        "4": "Scoop three tablespoon sized mounds of dough onto the prepared cookie sheet, leaving a few inches between each cookies for spreading. Bake for 9 to 10 minutes, or until the edges are golden and the centers have set. Press remaining chocolate chips on top of warm cookies, and sprinkle with sea salt, if using. Cool cookies on the baking sheet for 15 minutes before transferring them to a cooling rack."
+      },
       "img": "https://theloopywhisk.com/wp-content/uploads/2019/04/Vegan-Chocolate-Chip-Cookies_730px-featured-500x500.jpg",
       "category": "Cookies",
-      "time": "1hr 27min",
-      "servings": 20
+      "time": "35min",
+      "servings": 16
     },
     {
       "id": 13,
@@ -281,7 +355,17 @@
         "12": "1/3 cup (80ml) heavy cream or whole milk",
         "13": "1/2 teaspoon pure vanilla extract"
       },
-      "instructions": "Prepare the dough: Whisk the warm milk, yeast, and sugar together in the bowl of your stand mixer fitted with a dough hook or paddle attachment. Cover and allow to sit for 5 minutes. The mixture should be a little frothy on top after 5 minutes. If not, start over with new yeast. Add the eggs, butter, vanilla, nutmeg, salt, and 2 cups (245g) flour. Beat on low speed for 1 minute. Scrape down the sides of the bowl with a rubber spatula as needed. Add remaining flour and beat on medium speed until the dough comes together and pulls away from the sides of the bowl, about 2 minutes. If needed, add more flour, 1 Tablespoon at a time, until the dough pulls away from the sides of the bowl. Don’t add too much flour, though. You want a slightly sticky dough. Knead the dough: Keep the dough in the mixer and beat for an additional 2 minutes or knead by hand on a lightly floured surface for 2 minutes. Let Dough Rise: Lightly grease a large bowl with oil or nonstick spray. Place the dough in the bowl, turning it to coat all sides in the oil. Cover the bowl with aluminum foil, plastic wrap, or a clean kitchen towel. Allow the dough to rise in a relatively warm environment for 1.5-2 hours or until double in size. Shape Doughnuts: When the dough is ready, punch it down to release the air.Remove dough from the bowl and turn it out onto a lightly floured surface. If needed, punch down again to release any more air bubbles. Using a rolling pin, roll the dough out until it is 1/2 inch thick. Using a 3-3.5 inch doughnut cutter, cut into 12 doughnuts. Line 1 or 2 baking sheets with parchment paper or silicone baking mats. Place doughnuts and doughnut holes on each. (Feel free to discard doughnut holes if desired.) Loosely cover and allow to rest as you heat the oil. They will rise a bit as they rest. Place a cooling rack over another baking sheet. Pour oil into a large heavy-duty pot set over medium heat. Heat oil to 375°F (191°C). Add 2-3 doughnuts at a time and cook for 1 minute on each side. Carefully remove with a metal spatula or metal slotted spoon. Wear kitchen gloves if oil is splashing. Place fried doughnuts onto prepared rack. Repeat with remaining doughnuts, then turn off heat. Make the glaze: Whisk all of the glaze ingredients together. Dip each warm doughnut (don’t wait for them to cool!) into the glaze, making sure to coat both sides. Place back onto prepared rack as excess glaze drips down. After about 20 minutes, the glaze will set + harden.",
+      "instructions": {
+        "1": "Prepare the dough: Whisk the warm milk, yeast, and sugar together in the bowl of your stand mixer fitted with a dough hook or paddle attachment. Cover and allow to sit for 5 minutes. The mixture should be a little frothy on top after 5 minutes. If not, start over with new yeast.",
+        "2": "Add the eggs, butter, vanilla, nutmeg, salt, and 2 cups (245g) flour. Beat on low speed for 1 minute. Scrape down the sides of the bowl with a rubber spatula as needed. Add remaining flour and beat on medium speed until the dough comes together and pulls away from the sides of the bowl, about 2 minutes. If needed, add more flour, 1 Tablespoon at a time, until the dough pulls away from the sides of the bowl. Don’t add too much flour, though. You want a slightly sticky dough.",
+        "3": "Knead the dough: Keep the dough in the mixer and beat for an additional 2 minutes or knead by hand on a lightly floured surface for 2 minutes.",
+        "4": "Let Dough Rise: Lightly grease a large bowl with oil or nonstick spray. Place the dough in the bowl, turning it to coat all sides in the oil. Cover the bowl with aluminum foil, plastic wrap, or a clean kitchen towel. Allow the dough to rise in a relatively warm environment for 1.5-2 hours or until double in size.",
+        "5": "Shape Doughnuts: When the dough is ready, punch it down to release the air.Remove dough from the bowl and turn it out onto a lightly floured surface. If needed, punch down again to release any more air bubbles. Using a rolling pin, roll the dough out until it is 1/2 inch thick. Using a 3-3.5 inch doughnut cutter, cut into 12 doughnuts. If you can’t quite fit 12, re-roll the scraps and cut more.",
+        "6": "Line 1 or 2 baking sheets with parchment paper or silicone baking mats. Place doughnuts and doughnut holes on each. Loosely cover and allow to rest as you heat the oil. They will rise a bit as they rest. Place a cooling rack over another baking sheet.",
+        "7": "Pour oil into a large heavy-duty pot set over medium heat. Heat oil to 375°F (191°C). Add 2-3 doughnuts at a time and cook for 1 minute on each side. Carefully remove with a metal spatula or metal slotted spoon. Wear kitchen gloves if oil is splashing. Place fried doughnuts onto prepared rack. Repeat with remaining doughnuts, then turn off heat.",
+        "8": "Make the glaze: Whisk all of the glaze ingredients together. Dip each warm doughnut (don’t wait for them to cool!) into the glaze, making sure to coat both sides. Place back onto prepared rack as excess glaze drips down. After about 20 minutes, the glaze will set + harden.",
+        "9": "Doughnuts are best enjoyed the same day. You can store in an airtight container at room temperature or in the refrigerator for 1-2 extra days."
+      },
       "img": "https://natashaskitchen.com/wp-content/uploads/2021/05/Glazed-Donuts-SQ.jpg",
       "category": "Donuts",
       "time": "2hrs",
@@ -305,7 +389,13 @@
         "12": "1 ½ teaspoons vanilla",
         "13": "4 tablespoons hot water or as needed"
       },
-      "instructions": "Sprinkle the yeast over the warm water, and let stand for 5 minutes, or until foamy. In a large bowl, mix together the yeast mixture, milk, sugar, salt, eggs, shortening, and 2 cups of the flour. Mix for a few minutes at low speed, or stirring with a wooden spoon. Beat in remaining flour 1/2 cup at a time, until the dough no longer sticks to the bowl. Knead for about 5 minutes, or until smooth and elastic. Place the dough into a greased bowl, and cover. Set in a warm place to rise until double. Dough is ready if you touch it, and the indention remains. Turn the dough out onto a floured surface, and gently roll out to 1/2 inch thickness. Cut with a floured doughnut cutter. Let doughnuts sit out to rise again until double. Cover loosely with a cloth. Melt butter in a saucepan over medium heat. Stir in confectioners' sugar and vanilla until smooth. Remove from heat, and stir in hot water one tablespoon at a time until the icing is somewhat thin, but not watery. Set aside. Heat oil in a deep-fryer or large heavy skillet to 350 degrees F (175 degrees C). Slide doughnuts into the hot oil using a wide spatula. Turn doughnuts over as they rise to the surface. Fry doughnuts on each side until golden brown. Remove from hot oil, to drain on a wire rack. Dip doughnuts into the glaze while still hot, and set onto wire racks to drain off excess. Keep a cookie sheet or tray under racks for easier clean up.",
+      "instructions": {
+        "1": "Sprinkle the yeast over the warm water, and let stand for 5 minutes, or until foamy.",
+        "2": "In a large bowl, whisk together the flour, cocoa powder, baking soda, and salt.In a large bowl, mix together the yeast mixture, milk, sugar, salt, eggs, shortening, and 2 cups of the flour. Mix for a few minutes at low speed, or stirring with a wooden spoon. Beat in remaining flour 1/2 cup at a time, until the dough no longer sticks to the bowl. Knead for about 5 minutes, or until smooth and elastic. Place the dough into a greased bowl, and cover. Set in a warm place to rise until double. Dough is ready if you touch it, and the indention remains.",
+        "3": "Turn the dough out onto a floured surface, and gently roll out to 1/2 inch thickness. Cut with a floured doughnut cutter. Let doughnuts sit out to rise again until double. Cover loosely with a cloth.",
+        "4": "Melt butter in a saucepan over medium heat. Stir in confectioners' sugar and vanilla until smooth. Remove from heat, and stir in hot water one tablespoon at a time until the icing is somewhat thin, but not watery. Set aside.",
+        "5": "Heat oil in a deep-fryer or large heavy skillet to 350 degrees F (175 degrees C). Slide doughnuts into the hot oil using a wide spatula. Turn doughnuts over as they rise to the surface. Fry doughnuts on each side until golden brown. Remove from hot oil, to drain on a wire rack. Dip doughnuts into the glaze while still hot, and set onto wire racks to drain off excess. Keep a cookie sheet or tray under racks for easier clean up."
+      },
       "img": "https://i.pinimg.com/originals/48/d0/52/48d052f12ebfea1317300a046ac89e38.jpg",
       "category": "Donuts",
       "time": "2hrs 40min",
@@ -329,7 +419,17 @@
         "12": "1/2 teaspoon vanilla extract",
         "13": "3-4 tablespoons (45 to 60 ml) milk"
       },
-      "instructions": "Preheat the oven to 350°F. Spray a donut pan well with non-stick cooking spray and set aside. In a large bowl, whisk together the flour, cocoa powder, baking soda, and salt. In a separate bowl, mix together the buttermilk, sugar, egg, butter, and vanilla until well combined. Add the wet ingredients to the dry ingredients and mix until just combined. Spoon the batter into the donut cavities making sure to only fill them about 2/3 - 3/4 of the way full. Bake for 8-10 minutes or until a toothpick inserted into the donut comes out clean. Remove from the oven and allow to cool for about 5 minutes in the pan. Remove donuts from the pan and transfer to a wire rack to cool. In a separate bowl, mix together the powdered sugar, cocoa powder, vanilla, and milk. If the glaze is too thick, slowly add one tablespoon of milk at a time until it has reached your desired consistency. Dip the tops of the donuts into the glaze and transfer back to the wire rack to cool and allow the glaze to harden. Top with sprinkles if desired.",
+      "instructions": {
+        "1": "Preheat the oven to 350°F. Spray a donut pan well with non-stick cooking spray and set aside.",
+        "2": "In a large bowl, whisk together the flour, cocoa powder, baking soda, and salt.",
+        "3": "In a separate bowl, mix together the buttermilk, sugar, egg, butter, and vanilla until well combined.",
+        "4": "Add the wet ingredients to the dry ingredients and mix until just combined.",
+        "5": "Spoon the batter into the donut cavities making sure to only fill them about 2/3 - 3/4 of the way full.",
+        "6": "Bake for 8-10 minutes or until a toothpick inserted into the donut comes out clean.",
+        "7": "Remove from the oven and allow to cool for about 5 minutes in the pan. Remove donuts from the pan and transfer to a wire rack to cool.",
+        "8": "In a separate bowl, mix together the powdered sugar, cocoa powder, vanilla, and milk. If the glaze is too thick, slowly add one tablespoon of milk at a time until it has reached your desired consistency.",
+        "9": "Dip the tops of the donuts into the glaze and transfer back to the wire rack to cool and allow the glaze to harden. Top with sprinkles if desired."
+      },
       "img": "https://www.recipe-diaries.com/wp-content/uploads/2019/08/bakedchocolatedonuts4.jpg",
       "category": "Donuts",
       "time": "25min",
@@ -353,7 +453,23 @@
         "12": "4 cups cold milk",
         "13": "2 (3.4-ounce) packages instant pudding mix"
       },
-      "instructions": "<p>Scald 1 1/2 cups milk in a medium saucepan. Stir in the granulated sugar, salt, and butter. Remove from heat and cool to lukewarm. Add the warm water to a large mixing bowl. Sprinkle the yeast over the water and stir the mixture gently until the yeast dissolves. Combine the cooled milk-butter mixture with the yeast. Add the eggs and half the flour and mix until smooth. Stir in the lemon zest and enough of remaining flour to make a soft dough, mix well (you may not need all the flour).  Turn the dough out onto the lightly floured surface and knead for about 8 minutes, or until smooth and elastic. Alternatively, use a stand mixer fitted with the paddle attachment on medium speed for about 4 minutes.  Place in a lightly buttered bowl, turning to coat all sides. Cover tightly and let the dough rise in a warm place, free from drafts, for about 45 minutes, until doubled in bulk.</p> <p>Punch the dough down and turn it out onto the lightly floured surface. Divide it in half. Cover the unused half to prevent it from drying out. Roll out one half into a large round, about 1/2 inch thick. Cut doughnut rounds with a floured 3-inch circle or biscuit cutter. Place the doughnuts on a baking sheet. Repeat with the remaining half of the dough. Combine the dough scraps and continue cutting doughnuts until the dough is used. Cover with a lightweight kitchen towel and let rise in a warm place, free from draft, until doubled in size, about 30 minutes.</p> <p>Heat the oil in a deep, heavy, large pan until it reaches 365 F. Fry the doughnuts in batches (so not to overcrowd the pan) until golden brown and cooked throughout, turning once to brown both sides, about 2 minutes per side.  Drain on paper towels and repeat with the remaining dough. Let the doughnuts thoroughly cool before filling. Meanwhile, make the filling.</p> <p>Pour the cold milk into a deep bowl. Add the pudding mix and whisk until well blended and thick, about 1 minute. Refrigerate, covered, for at least 5 to 10 minutes.  Spoon the pudding into a pastry bag with a wide nozzle. Poke a hole in the side of each doughnut. Pipe the pudding into the cooled doughnuts. Sift confectioners' sugar over the filled doughnuts, if using. Keep the doughnuts refrigerated until ready to serve. Store leftovers covered in the refrigerator.</p>",
+      "instructions": {
+        "1": "Scald 1 1/2 cups milk in a medium saucepan. Stir in the granulated sugar, salt, and butter. Remove from heat and cool to lukewarm.",
+        "2": "Add the warm water to a large mixing bowl. Sprinkle the yeast over the water and stir the mixture gently until the yeast dissolves.",
+        "3": "Combine the cooled milk-butter mixture with the yeast. Add the eggs and half the flour and mix until smooth.",
+        "4": "Stir in the lemon zest and enough of remaining flour to make a soft dough; mix well (you may not need all the flour).",
+        "5": "Turn the dough out onto the lightly floured surface and knead for about 8 minutes, or until smooth and elastic. Alternatively, use a stand mixer fitted with the paddle attachment on medium speed for about 4 minutes.",
+        "6": "Place in a lightly buttered bowl, turning to coat all sides. Cover tightly and let the dough rise in a warm place, free from drafts, for about 45 minutes, until doubled in bulk.",
+        "7": "Punch the dough down and turn it out onto the lightly floured surface. Divide it in half. Cover the unused half to prevent it from drying out.",
+        "8": "Roll out one half into a large round, about 1/2 inch thick.",
+        "9": "Cut doughnut rounds with a floured 3-inch circle or biscuit cutter.",
+        "10": "Place the doughnuts on a baking sheet. Repeat with the remaining half of the dough. Combine the dough scraps and continue cutting doughnuts until the dough is used. Cover with a lightweight kitchen towel and let rise in a warm place, free from draft, until doubled in size, about 30 minutes.",
+        "11": "Heat the oil in a deep, heavy, large pan until it reaches 365 F. Fry the doughnuts in batches (so not to overcrowd the pan) until golden brown and cooked throughout, turning once to brown both sides, about 2 minutes per side.",
+        "12": "Drain on paper towels and repeat with the remaining dough. Let the doughnuts thoroughly cool before filling.",
+        "13": "Meanwhile, make the filling. Pour the cold milk into a deep bowl. Add the pudding mix and whisk until well blended and thick, about 1 minute. Refrigerate, covered, for at least 5 to 10 minutes.",
+        "14": "Spoon the pudding into a pastry bag with a wide nozzle. Poke a hole in the side of each doughnut. Pipe the pudding into the cooled doughnuts.",
+        "15": "Sift confectioners' sugar over the filled doughnuts, if using. Keep the doughnuts refrigerated until ready to serve. Store leftovers covered in the refrigerator."
+      },
       "img": "https://www.thespruceeats.com/thmb/Kg0UBkinorpRr1nipx6WzNWVN70=/1500x1000/filters:fill(auto,1)/cream-filled-doughnuts-3056329-hero-01-8bb80d3a19e447c097b85040f9feda57.jpg",
       "category": "Donuts",
       "time": "2hrs 37min",
@@ -379,9 +495,14 @@
         "14": "75g white caster sugar",
         "15": "2 tsp cornflour",
         "16": "2 tbsp ground almonds",
-        "17": "150g berries (we used raspberries and blackberries)"
+        "17": "150g berries"
       },
-      "instructions": "<p>To make the poached pears, put the sugar in a big saucepan with the lemon peel, cardamom pods, nutmeg, cinnamon and 1 litre water. Bring to a gentle simmer. Lower the pear halves into the liquid and place a circle of baking parchment on top, so they cook through properly. Leave over a medium heat, so that a few bubbles break the surface every now and then, and cook for 15 mins. Allow to cool in the liquid. Can be chilled overnight if making ahead.</p> <p>Heat oven to 180C/160C fan/gas 4. Dust the work surface with a little plain flour. Roll out the pastry so it’s big enough to line a 20-23cm frying pan, pie dish or shallow baking tin. Grate a little nutmeg over the surface, then gently roll again to help it stick. Lift over your dish, press into the corners, then trim the edges. You can give it a pretty crimped edge, if you like, then wrap the off-cuts in cling film and keep in the fridge until needed. Scrunch up a sheet of baking parchment, unfold, and lay it over the pastry. Fill with baking beans and bake for 15 mins. Remove the beans and parchment, brush with some of the beaten egg and return to the oven for another 5 mins. Meanwhile, make the filling.</p> <p>Cook the remaining pears and sugar in a small pan until the pears are soft enough to squash with the back of a spoon. Drain off 3 tbsp of the poaching liquid and mix this with the cornflour, then pour back into the pears and continue cooking and squashing for another minute or so, until the filling has thickened. Sprinkle the ground almonds over the pastry case, then add the squashed pear mixture and scatter over the berries. Remove the poached pears from their liquid and blot them on some kitchen paper. Arrange them face-up among the pear mixture and berries. Using a mini pastry cutter, cut little shapes from the leftover pastry, then arrange them on top. Brush the pastry pieces with beaten egg and sprinkle with the demerara sugar. Bake for 45-50 mins until the pastry is golden and berry juice is bubbling. Cool for 10-15 mins before serving with custard, cream or ice cream, if you like.</p>",
+      "instructions": {
+        "1": "To make the poached pears, put the sugar in a big saucepan with the lemon peel, cardamom pods, nutmeg, cinnamon and 1 litre water. Bring to a gentle simmer. Lower the pear halves into the liquid and place a circle of baking parchment on top, so they cook through properly. Leave over a medium heat, so that a few bubbles break the surface every now and then, and cook for 15 mins. Allow to cool in the liquid. Can be chilled overnight if making ahead.",
+        "2": "Heat oven to 180C/160C fan/gas 4. Dust the work surface with a little plain flour. Roll out the pastry so it’s big enough to line a 20-23cm frying pan, pie dish or shallow baking tin. Grate a little nutmeg over the surface, then gently roll again to help it stick. Lift over your dish, press into the corners, then trim the edges. You can give it a pretty crimped edge, if you like, then wrap the off-cuts in cling film and keep in the fridge until needed. Scrunch up a sheet of baking parchment, unfold, and lay it over the pastry. Fill with baking beans and bake for 15 mins. Remove the beans and parchment, brush with some of the beaten egg and return to the oven for another 5 mins.",
+        "3": "Meanwhile, make the filling. Cook the remaining pears and sugar in a small pan until the pears are soft enough to squash with the back of a spoon. Drain off 3 tbsp of the poaching liquid and mix this with the cornflour, then pour back into the pears and continue cooking and squashing for another minute or so, until the filling has thickened.",
+        "4": "Sprinkle the ground almonds over the pastry case, then add the squashed pear mixture and scatter over the berries. Remove the poached pears from their liquid and blot them on some kitchen paper. Arrange them face-up among the pear mixture and berries. Using a mini pastry cutter, cut little shapes from the leftover pastry, then arrange them on top. Brush the pastry pieces with beaten egg and sprinkle with the demerara sugar. Bake for 45-50 mins until the pastry is golden and berry juice is bubbling. Cool for 10-15 mins before serving with custard, cream or ice cream, if you like."
+      },
       "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/open-face-pear-berry-pie-74fbdd1.jpg?quality=90&resize=440,400",
       "category": "Pies",
       "time": "2hrs",
@@ -391,16 +512,19 @@
       "id": 18,
       "title": "Banoffee pie",
       "ingredients": {
-        "1": "4 bananas sliced",
-        "2": "394g caramel or dulce de leche",
-        "3": "300ml double cream",
-        "4": "dark chocolate (optional)",
-        "5": "100g butter chilled (plus extra for greasing)",
-        "6": "200g plain flour",
-        "7": "1 medium egg separated",
-        "8": "1 tbsp golden caster sugar"
+        "1": "225g digestive biscuits",
+        "2": "150g butter , melted",
+        "3": "397g can caramel or 400g dulce de leche",
+        "4": "3 small bananas , sliced",
+        "5": "300ml double cream",
+        "6": "1 tbsp icing sugar",
+        "7": "1 square dark chocolate (optional)"
       },
-      "instructions": "<p>Start by making the pastry case. Put the butter and flour in a food processor and pulse until it resembles fresh breadcrumbs.  Add the yolk of the egg and the sugar and pulse again until mixed through then, add a tbsp at a time of very cold water pulsing the processor after each addition. Stop adding water as soon as the dough starts to come together as one piece. Remove the dough from the processor and continue to bring together by kneading gently with your hands. Once you have a smooth ball of dough wrap it tightly in cling film and chill in the fridge for 30mins. Heat oven to 190C/170C/gas 4 and grease a 23cm loose bottomed fluted tart tin.</p> <p>Roll out the chilled pastry on a lightly floured surface and use it to line the tin. Leave about half a cm of pastry proud of the edge of the tin - snipping it to length with kitchen scissors. Line the base with a piece of baking parchment and weigh it down with baking beans or uncooked rice. Bake for 15 mins then remove the paper and beans and brush the pastry surface with beaten egg white. Return to the oven for a further 15-20 mins or until crisp, golden and cooked through. Leave to cool completely (can be done a day ahead). Spread half of the caramel on the case of the pastry case and layer the sliced bananas on top. Cover with the rest of the caramel and place in the fridge. Whip the cream until billowy thick and spoon it over the top of the tart. To serve finely grate over a 1-2 pieces of dark chocolate to garnish.</p>",
+      "instructions": {
+        "1": "Crush the digestive biscuits, either by hand using a wooden spoon, or in a food processor, until you get fine crumbs, tip into a bowl. Mix the crushed biscuits with the melted butter until fully combined. Tip the mixture into a 23cm loose bottomed fluted tart tin and cover the tin, including the sides, with the biscuit in an even layer. Push down with the back of a spoon to smooth the surface and chill for 1 hr, or overnight.",
+        "2": "Beat the caramel to loosen and spoon it over the bottom of the biscuit base. Spread it out evenly using the back of a spoon or palette knife. Gently push the chopped banana into the top of the caramel until the base is covered. Put in the fridge.",
+        "3": "Whip the cream with the icing sugar until billowy and thick. Take the pie out of the fridge and spoon the whipped cream on top of the bananas. Grate the dark chocolate over the cream, if you like, and serve."
+      },
       "img": "https://www.browneyedbaker.com/wp-content/uploads/2020/09/banoffee-pie-3-square.jpg",
       "category": "Pies",
       "time": "35min",
